@@ -258,6 +258,7 @@
 - [Wallpaper Abyss壁纸](https://wall.alphacoders.com)
 - [Pixabay图片素材库](https://pixabay.com/zh/)
 - [Unsplash图片素材库](https://unsplash.com)
+- [极简Coloring壁纸](https://bz.zzzmh.cn/)
 - [Pexels图片素材库](http://www.pexels.com)
 - [NASA图片视频素材库](https://images.nasa.gov)
 
